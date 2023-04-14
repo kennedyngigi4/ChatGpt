@@ -7,7 +7,7 @@ ChatGPT offers a range of benefits to developers and companies. In this reposito
 
 In a nutshell I am going to explore ways in which we can be more creative and efficient in achieving our company goals.
 
-#Chat Completion
+## Chat Completion
 
 This API endpoint can be very helpful to companies and developers in various industries. 
 
